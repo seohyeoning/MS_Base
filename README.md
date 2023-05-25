@@ -1,5 +1,5 @@
 # MS_Base
-My base pipe line for classification of the MS datasets
+Thi is my base pipeline for classification of the MS datasets
 
 This is my pipeline code for multimodal fusion experiments
 Base_Model.py 
