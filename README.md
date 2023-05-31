@@ -1,12 +1,18 @@
 # MS_Base
-Thi is my base pipeline for classification of the MS datasets
+Hello, 
+These are the pipline codes for MS classification with multimodal fusion research.
 
-This is my pipeline code for multimodal fusion experiments
-Base_Model.py 
+There are 2 types of models which are the baseline models(`Networks/...`) and the basic models(`Base_Model.py` and `Ori_Model`) for my future works.
+They are operated by `Main.py` files which are called `Main_baseline.py` and `Main_Base.py`.
+
+
+==============================================================================================================
+#### Info.
+`Base_Model.py` 
 - No additional module for Baseline
 - cross-attention + fusion (m=2)
 
-Ori_Model.py 
+`Ori_Model.py `
 - I changed tensorflow code to pytorch (reference code is written below)  
 - self-attention + fusion (m=5)
 
