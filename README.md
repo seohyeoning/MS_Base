@@ -2,7 +2,7 @@
 Hello, 
 These are the pipline codes for MS classification with multimodal fusion research.
 
-There are 2 types of models which are the baseline models(`Networks/...`) and the basic models(`Base_Model.py` and `Ori_Model`) for my future works.
+There are 2 types of models which are the baseline models(`Networks/...`) and the basic models(`Base_Model.py` and `Ori_Model.py`) for my future works.
 They are operated by `Main.py` files which are called `Main_baseline.py` and `Main_Base.py`.
 
 =======================================================================================
